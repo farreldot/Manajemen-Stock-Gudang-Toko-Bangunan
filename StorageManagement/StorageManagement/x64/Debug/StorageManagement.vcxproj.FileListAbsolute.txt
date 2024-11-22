@@ -1,0 +1,6 @@
+C:\Praktikum Progdas\TugasAkhir\StorageManagement\StorageManagement\x64\Debug\StorageManagement.vcxproj.AssemblyReference.cache
+C:\Praktikum Progdas\TugasAkhir\StorageManagement\StorageManagement\x64\Debug\StorageManagement.LoginForm.resources
+C:\Praktikum Progdas\TugasAkhir\StorageManagement\StorageManagement\x64\Debug\StorageManagement.MainForm.resources
+C:\Praktikum Progdas\TugasAkhir\StorageManagement\StorageManagement\x64\Debug\StorageManagement.RegisterForm.resources
+C:\Praktikum Progdas\TugasAkhir\StorageManagement\StorageManagement\x64\Debug\StorageManagement.vcxproj.GenerateResource.cache
+C:\Praktikum Progdas\TugasAkhir\StorageManagement\StorageManagement\x64\Debug\StorageManagement.exe
